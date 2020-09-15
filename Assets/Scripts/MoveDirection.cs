@@ -1,0 +1,1 @@
+public enum MoveDirection{z, x}
